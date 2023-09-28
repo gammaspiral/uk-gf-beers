@@ -56,7 +56,8 @@
     <script>
       $(document).ready(function () {
         $('#beer').DataTable({
-  
+          fixedHeader: true,
+          "pageLength":30,
           "ajax": "data.json",
           "columns": [
             { "data": "Brewery" },
