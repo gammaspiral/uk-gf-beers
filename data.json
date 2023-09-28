@@ -50,7 +50,11 @@
     {"Brewery":"Stroud","Style":"Pale Ale-Session","Name":"Hop Drop","ABV":"4.5","Untappd_rating":"3.49"},
     {"Brewery":"Tempest","Style":"British IPA","Name":"Long White Cloud","ABV":"5.4","Untappd_rating":"3.66"},
     {"Brewery":"Windswept","Style":"Pale Ale-Session","Name":"Mistral","ABV":"3.7","Untappd_rating":"3.23"},
-    {"Brewery":"Wishbone","Style":"Pale Ale-Session","Name":"Catalogue Pose","ABV":"3.6","Untappd_rating":"3.58"}
+    {"Brewery":"Wishbone","Style":"Pale Ale-Session","Name":"Catalogue Pose","ABV":"3.6","Untappd_rating":"3.58"},
+    {"Brewery":"Abbeydale","Style":"Seasonal - pumpkin","Name":"Pilgrim","ABV":"5.0","Untappd_rating":"?"},
+    {"Brewery":"Beerblefish","Style":"Mild - Imperial","Name":"Imperial Mild","ABV":"7.1","Untappd_rating":"?"},
+    {"Brewery":"Brentwood","Style":"Bitter-Extra Strong","Name":"Bravehear","ABV":"5.0","Untappd_rating":"?"},
+    {"Brewery":"Thornbridge","Style":"Brown Ale","Name":"Coltrane","ABV":"5.0","Untappd_rating":"?"}
 
 ]
 }
