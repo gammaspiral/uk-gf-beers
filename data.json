@@ -54,7 +54,10 @@
     {"Brewery":"Abbeydale","Style":"Seasonal - pumpkin","Name":"Pilgrim","ABV":"5.0","Untappd_rating":"?"},
     {"Brewery":"Beerblefish","Style":"Mild - Imperial","Name":"Imperial Mild","ABV":"7.1","Untappd_rating":"?"},
     {"Brewery":"Brentwood","Style":"Bitter-Extra Strong","Name":"Bravehear","ABV":"5.0","Untappd_rating":"?"},
-    {"Brewery":"Thornbridge","Style":"Brown Ale","Name":"Coltrane","ABV":"5.0","Untappd_rating":"?"}
+    {"Brewery":"Thornbridge","Style":"Brown Ale","Name":"Coltrane","ABV":"5.0","Untappd_rating":"?"},
+    {"Brewery":"Hornes Brewery","Style":"Golden-Session","Name":"Unlocked Holmes IPA","ABV":"4.3","Untappd_rating":"?"},
+    {"Brewery":"Hornes Brewery","Style":"Pale-Session","Name":"Triple Goat Pale Ale","ABV":"3.9","Untappd_rating":"?"},
+    {"Brewery":"Great North Eastern Brewing Co","Style":"Bitter-Session","Name":"North Sea Bitter","ABV":"3.8","Untappd_rating":"?"}
 
 ]
 }
