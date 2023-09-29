@@ -61,7 +61,8 @@
     {"Brewery":"Atom","Style":"Pale Ale","Name":"Quantum State","ABV":"4.2","Untappd_rating":"?"},
     {"Brewery":"Red Willow","Style":"Pale Ale","Name":"Cashmere & Citra","ABV":"4.0","Untappd_rating":"?"},
     {"Brewery":"Tartarus","Style":"APA","Name":"Snawfus","ABV":"4.9","Untappd_rating":"?"},
-    {"Brewery":"Tartarus","Style":"Pale Ale","Name":"Wapalossie","ABV":"4.6","Untappd_rating":"?"}
+    {"Brewery":"Tartarus","Style":"Pale Ale","Name":"Wapalossie","ABV":"4.6","Untappd_rating":"?"},
+    {"Brewery":"Ampersand","Style":"Lager - Helles","Name":"Feld","ABV":"4.0","Untappd_rating":"?"}
 
 ]
 }
