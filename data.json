@@ -23,6 +23,9 @@
     {"Brewery":"Abbeydale","Style":"Pale Ale-Session","Name":"Doctor Morton's Rogue Apostrophe","ABV":"4.1","Untappd_rating":"3.50"},
     {"Brewery":"Barsham","Style":"British IPA","Name":"Golden Close IPA","ABV":"5.0","Untappd_rating":"3.48"},
     {"Brewery":"Barsham","Style":"Bitter-Session","Name":"Norfolk Topper","ABV":"3.8","Untappd_rating":"3.46"},
+    {"Brewery":"Barsham","Style":"Bitter-Amber","Name":"OAKS","ABV":"3.6","Untappd_rating":"?"},
+    {"Brewery":"Barsham","Style":"Bitter-Best","Name":"Bitter Old Bustard","ABV":"4.3","Untappd_rating":"?"},
+    {"Brewery":"Barsham","Style":"Pale Ale","Name":"Pilgrim's Pale Ale","ABV":"4.0","Untappd_rating":"?"},
     {"Brewery":"Beerblefish","Style":"Speciality - Dark","Name":"Peculiar Fish","ABV":"6.0","Untappd_rating":"3.47"},
     {"Brewery":"Birmingham Brewing","Style":"Stout - Session","Name":"Stout Brummie","ABV":"4.8","Untappd_rating":"3.52"},
     {"Brewery":"Birmingham Brewing","Style":"Pale Ale-Session","Name":"Pale Brummie","ABV":"4.0","Untappd_rating":"3.38"},
@@ -62,6 +65,7 @@
     {"Brewery":"Red Willow","Style":"Pale Ale","Name":"Cashmere & Citra","ABV":"4.0","Untappd_rating":"?"},
     {"Brewery":"Tartarus","Style":"APA","Name":"Snawfus","ABV":"4.9","Untappd_rating":"?"},
     {"Brewery":"Tartarus","Style":"Pale Ale","Name":"Wapalossie","ABV":"4.6","Untappd_rating":"?"},
+    {"Brewery":"Barsham","Style":"Stout","Name":"Stout Robin","ABV":"4.6","Untappd_rating":"?"},
     {"Brewery":"Ampersand","Style":"Lager - Helles","Name":"Feld","ABV":"4.0","Untappd_rating":"?"}
 
 ]
